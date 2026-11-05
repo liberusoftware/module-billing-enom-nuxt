@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-enom-nuxt",
+  "capabilityKey": "liberusoftware/billing-enom",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-enom-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-enom.md",
+  "presentationPlan": "projects/billing/nuxt/module-billing-enom.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
